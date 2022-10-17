@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<signos>
+    <signo>
+        <dtaInicio>03-21</dtaInicio>
+        <dtaFinal>04-20</dtaFinal>
+        <descSigno>Áries ♈</descSigno>
+        <personalidade>
+            Quando o signo de áries é citado, os entendidos de astrologia logo pensam em raiva e impulsividade. Duas das principais características do signo de áries.  Mas o fato é que os arianos em geral não perdem tempo e sabem muito bem o que querem. Contudo, não tem muita paciência para esperar as coisas acontecerem, eles vão lá e fazem acontecer.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>04-21</dtaInicio>
+        <dtaFinal>05-21</dtaFinal>
+        <descSigno>Touro ♉</descSigno>
+        <personalidade>
+            O signo de touro é muito ligado à vida material. Portanto, sempre está focando em dinheiro, comida, posses e ao conforto. Desse modo, é um signo que sabe valorizar as coisas boas da vida, além de enxergar as qualidades das pessoas. Além disso, uma das principais características do signo de touro é a capacidade de ser pé no chão e saber avaliar o que é bom ou não para você.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>05-22</dtaInicio>
+        <dtaFinal>06-21</dtaFinal>
+        <descSigno>Gêmeos ♊</descSigno>
+        <personalidade>
+            Gêmeos é um dos signos mais engraçados e inteligentes de todo o zodíaco. Tem raciocínio rápido e uma habilidade admirável de ver as coisas por um ponto de vista mais leve. Além disso, tem uma criatividade especial, e são bons em solucionar problemas, apesar da sua natureza indecisa. Aliás, é essa volatilidade que é um desafio para outras pessoas.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>06-21</dtaInicio>
+        <dtaFinal>07-23</dtaFinal>
+        <descSigno>Câncer ♋</descSigno>
+        <personalidade>
+            Signo das emoções, carentes e apegados, os cancerianos estão aprendendo a lidar com os seus próprios sentimentos. E isso fica bem claro pelo seu jeito fofo, carinho e às vezes até mesmo manhoso e infantil. Contudo, é o signo mais ligado à maternidade e ao cuidado, sempre buscando o melhor para aqueles que ama.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>07-24</dtaInicio>
+        <dtaFinal>08-23</dtaFinal>
+        <descSigno>Leão ♌</descSigno>
+        <personalidade>
+            O leonino é o mais exibido do zodíaco. Mas o fato é que ele nasceu mesmo para brilhar. Entre as características do signo é podemos citar que ele é bastante confiante, ousado e autoconfiante, algo que pode ser visto de forma negativa por algumas pessoas. Mas para eles isso é ótimo, é porque eles estão cientes do seu próprio valor.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>08-24</dtaInicio>
+        <dtaFinal>09-23</dtaFinal>
+        <descSigno>Virgem ♍</descSigno>
+        <personalidade>
+            O signo de virgem é sinônimo de organização, pragmatismo e trabalho. E isso é motivo de orgulho dos virginianos. Eles estão sempre em busca da perfeição, sendo assim, seu perfeccionismo pode ser tanto uma qualidade quanto um defeito. Além disso, são pessoas muito racionais, e tendem a racionalizar tudo, inclusive os sentimentos.
+        </personalidade>
+    </signo>
+    
+    <signo>
+        <dtaInicio>09-24</dtaInicio>
+        <dtaFinal>10-22</dtaFinal>
+        <descSigno>Libra ♎</descSigno>
+        <personalidade>
+            Quando se fala em libra logo vem a mente a indecisão. E eles são realmente indecisos, então não lhe dê muitas possibilidades. Contudo, o libriano tem uma incrível habilidade de trazer harmonia para as coisas. Em meio a conflitos, ele consegue ser o apaziguador, olhar a situação e levar ambos os lados para um caminho de entendimento.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>10-23</dtaInicio>
+        <dtaFinal>11-21</dtaFinal>
+        <descSigno>Escorpião ♏</descSigno>
+        <personalidade>
+            Escorpião é um signo bem misterioso e até mesmo indecifrável. Sendo assim, o escorpiano tem a habilidade de ser quase invisível, sendo muito discreto, envolvendo as pessoas de forma silenciosa. Desse modo, quando você se dá conta já está se abrindo para o escorpiano. Contudo, suas qualidades quando motivadas pelo ego e medo podem ser bem sombrias, não por acaso é conhecido com o signo mais vingativo do zodíaco.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>11-22</dtaInicio>
+        <dtaFinal>12-21</dtaFinal>
+        <descSigno>Sagitário ♐</descSigno>
+        <personalidade>
+            Sagitário é um signo muito social e engraçado por natureza. O sagitariano está focado em ver o que existe de melhor nas coisas e não apenas as coisas ruins. É um signo visionário, sempre disposto a olhar para o que não conhece com olhar de inspiração e busca filosófica. É amante vivenciar novas aventuras, e tende a ter expectativas muito altas, o que deve ser visto com cuidado para evitar frustrações futuras.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>12-22</dtaInicio>
+        <dtaFinal>12-31</dtaFinal>
+        <descSigno>Capricórnio ♑</descSigno>
+        <personalidade>
+            O signo de capricórnio pode ser rotulado de muitas coisas, incluindo chato, inflexível e muito trabalhador. Mas a verdade é que o signo tem muito a oferecer. O capricorniano pensa a longo prazo, e não deixa que pequenos prazeres o atrapalhe de chegar onde quer. É um signo que pensa muito, gosta de regras, respeita a hierarquia e cultiva tradições, tudo com muito foco e perseverança.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>01-20</dtaInicio>
+        <dtaFinal>02-19</dtaFinal>
+        <descSigno>Aquário ♒</descSigno>
+        <personalidade>
+            Aquário é o signo mais peculiar e único do zodíaco. Sendo assim, as características do signo envolvem inovações, futuro, tecnologia, e claro, tudo que é diferente. Esse signo veio com a missão de questionar e renovar tudo o que já está estabelecido. Portanto, é muito inovador, e racional, ao mesmo tempo que é completamente imprevisível. Nunca tente aprisionar um aquariano, eles temem qualquer coisa que coloque em risco sua liberdade.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>02-20</dtaInicio>
+        <dtaFinal>03-20</dtaFinal>
+        <descSigno>Peixes ♓</descSigno>
+        <personalidade>
+            O signo de peixes, que o signo mais ligado a introspecção, espiritualidade e sentimentalismo. É um signo profundo, que vai onde os mais racionais jamais chegarão. Portanto, essas características do signo de peixes, fazem deles visionários, que entendem a magia que é a vida. Quando a pisciana se conecta com essa parte de si mesmo, consegue se guiar pela sua intuição.
+        </personalidade>
+    </signo>
+    
+</signos>
